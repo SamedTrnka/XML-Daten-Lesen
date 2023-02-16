@@ -1,0 +1,20 @@
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.exe.config
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.exe
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.pdb
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csprojAssemblyReference.cache
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung_11_Fortgeschritten.FrmAusgabe.resources
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung_11_Fortgeschritten.Properties.Resources.resources
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csproj.GenerateResource.cache
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.exe
+C:\Users\TEMP\Desktop\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.pdb
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.exe.config
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.exe
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\bin\Debug\Übung 11 Fortgeschritten.pdb
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csproj.AssemblyReference.cache
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung_11_Fortgeschritten.FrmAusgabe.resources
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung_11_Fortgeschritten.Properties.Resources.resources
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csproj.GenerateResource.cache
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.csproj.CoreCompileInputs.cache
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.exe
+D:\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\Übung 11 Fortgeschritten\obj\Debug\Übung 11 Fortgeschritten.pdb

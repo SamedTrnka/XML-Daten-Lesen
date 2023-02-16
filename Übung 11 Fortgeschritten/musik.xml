@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<song>
+		<title>Saturday Night's Alright (For Fighting)</title>
+		<artist>Elton John</artist>
+		<producer>Gus Dudgeon</producer>
+		<genre>Pop/Rock</genre>
+		<release>1973</release>
+	</song>
+	
+	<song>
+		<title>One Night in Bangkok</title>
+		<artist>Murray Head</artist>
+		<producer>Benny Andersson Björn Ulvaeus</producer>
+		<genre>Pop</genre>
+		<release>1984</release>
+	</song>
+	
+	<song>
+		<title>Who Is It?</title>
+		<artist>Michael Jackson</artist>
+		<producer>Michael Jackson/Bill Bottrell</producer>
+		<genre>Classic Rock</genre>
+		<release>1991</release>
+	</song>
+	
+	<song>
+		<title>Celebration</title>
+		<artist>Kool And The Gang</artist>
+		<producer>Eumir Deodato</producer>
+		<genre>Funk/Soul</genre>
+		<release>1980</release>
+	</song>
+	
+	<song>
+		<title>24K Magic</title>
+		<artist>Bruno Mars</artist>
+		<producer>Shampoo Press And Curl/The Stereotypes</producer>
+		<genre>Funk/Disco/Pop/RnB/Soul</genre>
+		<release>2016</release>
+	</song>
+</root>
